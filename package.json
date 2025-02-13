@@ -1,0 +1,14 @@
+{
+  "name": "api.rtc",
+  "version": "1.0.0",
+  "description": "Api para rtc, con conexiones distindivas para cada usuario",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Tsureatsu",
+  "license": "ISC",
+  "type": "module"
+}
